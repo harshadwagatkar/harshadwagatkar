@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Third-year **Computer Engineering** student at KJSIT Baramati (CGPA: **8.68**)
+- 🎓 Third-year **Computer Engineering** student at VPKBIET Baramati (CGPA: **8.68**)
 - 🚀 Passionate about **backend development**, **database systems**, and building real-world solutions
 - 🛠️ Experienced in full-stack apps with **secure authentication** and **real-time features**
 - 💡 Currently sharpening my **DSA skills** for technical interviews
